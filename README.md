@@ -45,6 +45,8 @@ Follow the prompts, type a number, and press enter to make a choice!
 
 To customize the game and add your own Pokemon, edit the [pokemon.txt](pokemon.txt) file before running the program.
 
+Run the [PokemonArena.java](PokemonArena.java) file to play!
+
 ## Results
 
 Participating in this Pokemon project was enjoyable as I was able to take a deep dive into Java, object-oriented programming, and other computing science concepts.
