@@ -5,18 +5,27 @@ Exploring object-oriented programming with Pokemon!
 Course: Computer Science  ICS4U (Grade 11)  
 Date: January 8th, 2017
 
+![Pokemon Gif](images/PokemonVideo.gif)
+
 ## Table of Contents
 [1. Intro](#Intro)  
-[2. Environment Setup](#Environment-Setup)  
-[3. How to Play](#How-to-Play)  
-[4. Results](#Results)  
-[5. Next Steps](#Next-Steps)
+[2. Gameplay Images](#Gameplay-Images)  
+[3. Environment Setup](#Environment-Setup)  
+[4. How to Play](#How-to-Play)  
+[5. Results](#Results)  
+[6. Next Steps](#Next-Steps)
 
 ## Intro
 
 Text-based Pokemon game through Java command line. Utilizes object-oriented programming and other ICS4U computing techniques.
 
 Detailed information on this project can be found in the [Pokemon Doc PDF](Pokemon%20Arena.pdf)
+
+## Gameplay Images
+
+![Pokemon Main](images/PokemonMain.png)
+![Pokemon Select](images/PokemonSelect.png)
+![Pokemon Battle](images/PokemonBattle.png)
 
 ## Environment Setup
 
@@ -46,6 +55,6 @@ I learned a lot and am excited to put the knowledge gained from this experience 
 
 Some fun things I would like to build on or explore relating to this project would be:
 
-1. Add graphics (i.e. battle scene) to the program
-2. Create more advanced/sophisticated enemy logic
-3. Add various difficulties
+- Add graphics (i.e. battle scene) to the program
+- Create more advanced/sophisticated enemy logic
+- Add various difficulties
