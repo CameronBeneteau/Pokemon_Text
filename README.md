@@ -1,6 +1,6 @@
 # Pokemon-Text
 
-Exploring object-oriented programming with Pokemon!
+Exploring object-oriented programming with Pokemon! ([Demo Video](https://youtu.be/FafhZfWszrM))
 
 Course: Computer Science  ICS4U (Grade 11)  
 Date: January 8th, 2017
@@ -9,7 +9,7 @@ Date: January 8th, 2017
 
 ## Table of Contents
 [1. Intro](#Intro)  
-[2. Gameplay Images](#Gameplay-Images)  
+[2. Gameplay](#Gameplay)  
 [3. Environment Setup](#Environment-Setup)  
 [4. How to Play](#How-to-Play)  
 [5. Results](#Results)  
@@ -21,7 +21,9 @@ Text-based Pokemon game through Java command line. Utilizes object-oriented prog
 
 Detailed information on this project can be found in the [Pokemon Doc PDF](Pokemon%20Arena.pdf)
 
-## Gameplay Images
+## Gameplay
+
+Check out the demo video for this project [here](https://imgur.com/a/u4ZedQu)!
 
 ![Pokemon Main](images/PokemonMain.png)
 ![Pokemon Select](images/PokemonSelect.png)
