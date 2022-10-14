@@ -26,8 +26,8 @@ Detailed information on this project can be found in the [Pokemon Doc PDF](Pokem
 
 Check out the demo video for this project [here](https://youtu.be/FafhZfWszrM)!
 
-![Pokemon Main](images/PokemonMain.png)
-![Pokemon Select](images/PokemonSelect.png)
+![Pokemon Main](images/PokemonMain.png)  
+![Pokemon Select](images/PokemonSelect.png)  
 ![Pokemon Battle](images/PokemonBattle.png)
 
 ## Environment Setup
