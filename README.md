@@ -23,7 +23,7 @@ Detailed information on this project can be found in the [Pokemon Doc PDF](Pokem
 
 ## Gameplay
 
-Check out the demo video for this project [here](https://imgur.com/a/u4ZedQu)!
+Check out the demo video for this project [here](https://youtu.be/FafhZfWszrM)!
 
 ![Pokemon Main](images/PokemonMain.png)
 ![Pokemon Select](images/PokemonSelect.png)
