@@ -2,7 +2,7 @@
 
 Exploring object-oriented programming with Pokemon! ([Demo Video](https://youtu.be/FafhZfWszrM))
 
-Course: Computer Science  ICS4U (Grade 11)  
+Course: Computer Science  ICS4U (Grade 12)  
 Date: January 8th, 2017  
 Grade: 100%
 
