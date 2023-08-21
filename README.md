@@ -1,4 +1,4 @@
-# Pokemon-Text
+# Pokemon Text
 
 Exploring object-oriented programming with Pokemon! ([Demo Video](https://youtu.be/FafhZfWszrM))
 
@@ -18,7 +18,7 @@ Grade: 100%
 
 ## Intro
 
-Text-based Pokemon game through Java command line. Utilizes object-oriented programming and other ICS4U computing techniques.
+A text-based Pokemon battling game with the command line. Utilizes Java, object-oriented programming and other ICS4U computing techniques.
 
 Detailed information on this project can be found in the [Pokemon Doc PDF](Pokemon%20Arena.pdf)
 
